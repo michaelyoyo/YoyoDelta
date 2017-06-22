@@ -46,6 +46,14 @@ Initial Commit -
 
 	So with that being said I've made some initial design decisions detailed below.
 
+		-Printer Style
+			-Delta
+				-Low Mass (higher acceleration for given rigidity)
+				-Traditionally high speed
+				-Easy to enclose chamber (no motors/electronics needed)
+				-Larger build volumes are common
+				-If I'm going to build a printer, I want it to be cool to watch
+
 		-Linear Motion
 			-Openbuilds V Slot Rail
 				-Not too expensive
